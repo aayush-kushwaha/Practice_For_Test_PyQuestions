@@ -1,3 +1,4 @@
+# WAP_to_check_whether_the_string_has_vowels_or_not
 a = input("Enter String: ")
 i = 0
 while i < len(a):
